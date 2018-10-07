@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Bottom App Bars</string>
+    <string name="action_search">Search</string>
+    <string name="action_mail">Mail</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_archieve">Archieve</string>
+    <string name="primary_screen_text">Primary Screen</string>
+    <string name="secondary_sceen_text">Secondary Screen</string>
+    <string name="bottom_sheet_name">Name</string>
+    <string name="bottom_sheet_email">Email</string>
+    <string name="nav_item1">item 1</string>
+    <string name="nav_item2">item 2</string>
+    <string name="nav_item3">item 3</string>
+    <string name="nav_item4">item 4</string>
+    <string name="nav_item5">item 5</string>
+    <string name="nav_item6">item 6</string>
+    <string name="drawable_account">Drawable Account</string>
+    <string name="drawable_close">Close</string>
+    <string name="toggle">Toggle</string>
 </resources>
